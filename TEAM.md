@@ -6,15 +6,15 @@ Role: [Governance]
 ## Team Member 1
 
 Twitter: (https://twitter.com/prosventure)
-Role: [role]
+Role: [The Project]
 
 ## Team Member 2
 
 Twitter: (https://twitter.com/cooolrunnings)
-Role: [role]
+Role: [Project Builder]
 
 
 ## Team Member 3
 
 Twiiter: (https://twitter.com/mike_sol22)
-Role: [role]
+Role: [Project Manager]
